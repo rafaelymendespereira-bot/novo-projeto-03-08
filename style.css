@@ -1,9 +1,9 @@
 /*Paleta suave cpm fundo claro e texto escuro */
 :root{
     --cor-fundo:#fff8f0;
-    --cor-cabecalho:#8b5e3c;
+    --cor-cabecalho:#eff0af;
     --cor-texto:#333;
-    --cor-rodape:#654321;
+    --cor-rodape:#f1e8b1;
 }
 body{
     margin:0;
